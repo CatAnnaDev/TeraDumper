@@ -1,0 +1,50 @@
+	"String": [
+		{
+			"string": "Force Shutdown",
+			"readableId": "SMT_ADMINTOOL_DISCONNECT"
+		},
+		{
+			"string": "Resurrection",
+			"readableId": "SMT_ADMINTOOL_RESURRECT"
+		},
+		{
+			"string": "Summon",
+			"readableId": "SMT_ADMINTOOL_CALL"
+		},
+		{
+			"string": "Teleport",
+			"readableId": "SMT_ADMINTOOL_TELEPORT"
+		},
+		{
+			"string": "Enter teleport coordinates [continentId] [x] [y] [z]",
+			"readableId": "SMT_ADMINTOOL_WRITE_POSITION"
+		},
+		{
+			"string": "Enlisting current location into the bookmark. Enter bookmark name.",
+			"readableId": "SMT_ADMINTOOL_ADD_WRITE_BOOKMARKNAME"
+		},
+		{
+			"string": "Bookmark enlistment",
+			"readableId": "SMT_ADMINTOOL_ADD_BOOKMARK"
+		},
+		{
+			"string": "NPC removal",
+			"readableId": "SMT_ADMINTOOL_REMOVENPC"
+		},
+		{
+			"string": "Bookmark removal",
+			"readableId": "SMT_ADMINTOOL_REMOVE_BOOKMARK"
+		},
+		{
+			"string": "Enter bookmark to delete and confirm.",
+			"readableId": "SMT_ADMINTOOL_WRITE_REMOVE_BOOKMARKNAME"
+		},
+		{
+			"string": "Invisible",
+			"readableId": "SMT_ADMINTOOL_TRANSPARENT"
+		},
+		{
+			"string": "[GM]",
+			"readableId": "SMT_ADMINTOOL_GMTITLE"
+		}
+	]
